@@ -1,4 +1,4 @@
-# Projeto Atlas
+<img width="711" height="604" alt="image" src="https://github.com/user-attachments/assets/fb702dcd-ac04-4820-805c-b1f46d34f006" /># Projeto Atlas
 
 Hackathon iPORT 2026: gestão de capacidade das equipes de desenvolvimento a partir do Azure DevOps.
 
@@ -31,4 +31,4 @@ Ele abre em http://localhost:5173. Para gerar o arquivo único de novo, use `npm
 
 O schema `public`, com os dados de exemplo, é o do time.
 
-Login admin: 111.111.111-11. A senha o time já tem.
+Login admin: 111.111.111-12. A senha Atlas2448@@.
